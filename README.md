@@ -1,5 +1,3 @@
-# Day-04-of-Python-Journey
-# =====================================
 # Day 04 - Python Lists
 # Author: Roshan Yadav
 # =====================================
